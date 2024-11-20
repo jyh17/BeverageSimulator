@@ -1,0 +1,30 @@
+{"drinks": [
+    {
+        "name": "Mocha",
+        "rarity": 1
+    },
+    {
+        "name": "Lemonade",
+        "rarity": 2
+    },
+    {
+        "name": "Horchata",
+        "rarity": 3
+    },
+    {
+        "name": "Water",
+        "rarity": 0
+    },
+    {
+        "name": "Matcha",
+        "rarity": 1
+    },
+    {
+        "name": "Black Coffee",
+        "rarity": 0
+    },
+    {
+        "name": "kjadkjas",
+        "rarity": 2
+    }
+]}

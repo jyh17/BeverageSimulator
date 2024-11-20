@@ -1,0 +1,10 @@
+{"drinks": [
+    {
+        "name": "Water",
+        "rarity": 0
+    },
+    {
+        "name": "Mocha",
+        "rarity": 1
+    }
+]}
